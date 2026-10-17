@@ -1,0 +1,8 @@
+Asset ID,Equipment,Lab,Priority,Requested Date,Certificate Number,Scan Result,Disposition,Action
+CM-201,Pressure Gauge,North Lab,1,2053-04-12,RA-2053-201,Pass,Released,Release to lab
+CM-202,Mass Set,North Lab,2,2053-04-10,RA-2053-202,Pass,Released,Release to lab
+CM-203,Torque Standard,North Lab,2,2053-04-11,RA-2053-203,Pass,Deferred Capacity,Hold for next window
+CM-204,Thermal Probe,South Lab,1,2053-04-09,RA-2053-204,Pass,Released,Release to lab
+CM-205,Flow Meter,South Lab,2,2053-04-13,RA-2053-205,Fail,Calibration Failed,Quarantine equipment
+CM-206,Reference Timer,South Lab,3,2053-04-14,,,Missing Certificate,Locate certificate
+CM-900,,,,,RA-2053-900,Pass,Unexpected Certificate,Investigate scan

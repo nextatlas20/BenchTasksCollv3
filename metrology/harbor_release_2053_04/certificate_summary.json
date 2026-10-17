@@ -1,0 +1,16 @@
+{
+  "retained_orders": 6,
+  "discarded_order_rows": 3,
+  "retained_scans": 6,
+  "discarded_scan_rows": 3,
+  "released_assets": 3,
+  "deferred_capacity": 1,
+  "failed_calibrations": 1,
+  "missing_certificates": 1,
+  "unexpected_certificates": 1,
+  "release_manifest_rows": 3,
+  "lab_capacity_usage": {
+    "North Lab": 2,
+    "South Lab": 1
+  }
+}
