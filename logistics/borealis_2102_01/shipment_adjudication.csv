@@ -1,0 +1,5 @@
+Shipment ID,Lane,Product,Departed At,Arrived At,Threshold C,Allowance Minutes,Matching Alerts,Qualifying Alerts,Excursion Intervals,Excursion Minutes,Peak C,Disposition
+BX-104,Clinic,Measles Vials,2102-01-14T08:00Z,2102-01-14T10:00Z,8,25,2,2,1,35,10,Breached
+BX-118,Clinic,Insulin Pens,2102-01-16T09:00Z,2102-01-16T11:00Z,5,35,2,2,1,35,7,Compliant
+RX-207,Rural,Rabies Vials,2102-01-18T12:00Z,2102-01-18T14:00Z,8,39,3,3,3,40,11,Breached
+RX-219,Rural,Plasma Packs,2102-01-20T15:00Z,2102-01-20T16:00Z,6,0,3,0,0,0,,Compliant
