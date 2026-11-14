@@ -1,4 +1,4 @@
-# Evaluation script for customer-portal
+# Evaluation script for territory-manager
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic
