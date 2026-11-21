@@ -1,0 +1,9 @@
+Finding ID,Component,Severity,Remediation Due,Owner Team,Status
+VUL-2347,partner-api,Low,2026-04-05,Mobile,Overdue
+VUL-2321,shipment-tracker,Critical,2026-04-08,Data Services,Overdue
+VUL-2324,driver-app,Critical,2026-04-14,Mobile,Overdue
+VUL-2327,sso-broker,High,2026-04-15,Identity & Access,Due Soon
+VUL-2329,warehouse-scanner,Critical,2026-04-22,Warehouse Ops,Due Soon
+VUL-2331,payments-ledger,High,2026-04-22,Payments,Due Soon
+VUL-2332,refund-service,High,2026-04-22,Payments,Due Soon
+VUL-2334,customer-portal,Medium,2026-04-29,Platform Engineering,Due Soon
